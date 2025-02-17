@@ -1,0 +1,5 @@
+python==3.12.4
+panel==1.6.0
+pandas==2.2.3
+hvplot==0.11.2
+bokeh==3.6.2
